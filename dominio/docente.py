@@ -2,7 +2,7 @@
 #Quizhpi Aviles Aaron
 #Cmpoverde Yong Esthela
 #Olvera Herrera Shirley
-
+#Villacis Bohorquez Michael Robert
 from dominio.persona import Persona
 class Docente(Persona):
     contador_docente = 0
