@@ -1,7 +1,3 @@
-#Joseph Paez
-#Viviana Caice
-#Alejandra Barrera
-#Jamilet Pillasagua
 
 from dominio.docente import Docente
 from dominio.estudiante import Estudiante
